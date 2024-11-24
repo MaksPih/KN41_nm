@@ -1,17 +1,17 @@
 # Звіт до роботи 4
 ## Тема: Робота з числовими даними в Python
-### Мета роботи: Ознайомитися з бібліотекою NumPy та оформити звіт
+### Мета роботи: Ознайомитися з операціями над масивами даних
 
 ---
 ### Виконання роботи
 * Результати виконання завдань:
-    1. Виконав завдання скрізь де є функція homework [numpy.ipynb](./numpy.ipynb)
-    1. Приклади які розглядались на лекції/лабораторних виконав в чотирьох файлах: [1_example.ipynb](./1_example.ipynb), [2_example.ipynb](./2_example.ipynb), [3_example.ipynb](./3_example.ipynb) і [mine_example.ipynb](./mine_example.ipynb)
+    1. Виконав завдання скрізь де є функція homework: [1-ий файл](./1_numpy_types.ipynb), [2-ий файл](./2_numpy_operations.ipynb), [3-ій файл](./3_numpy_statistic.ipynb)
+    1. Приклади які розглядались на лекції/лабораторних виконав в чотирьох файлах: [1_example.ipynb](./example/1_example.ipynb), [2_example.ipynb](./example/2_example.ipynb), [3_example.ipynb](./example/3_example.ipynb) і [mine_example.ipynb](./example/mine_example.ipynb)
 
 ---
 ### Висновок:
 
-- Ознайомився з бібліотекою NumPy та оформив звіт.
+- Ознайомився з операціями над масивами даних.
 - Так, мету було досягнуто.
 - На даний момент додаткових питань не виникло.
 - Так, вдалося виконати всі завдання.
